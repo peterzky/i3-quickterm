@@ -65,6 +65,7 @@ TERMS = {
     "urxvtc": TERM("urxvtc"),
     "xfce4-terminal": TERM("xfce4-terminal", execfmt="string"),
     "xterm": TERM("xterm"),
+    "wayst": TERM("wayst", titleopt="--title-format")
 }
 
 
